@@ -1,7 +1,4 @@
-# My-hello-world
-This project is where my first web development pages 
-The full web developer course take place here.
-We are going to learn many programming lang.
+# Demo-App with Docker
 demo app - developing with Docker
 This demo app shows a simple user profile app set up using
 
